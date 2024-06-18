@@ -1,0 +1,11 @@
+server:
+  port: 8090
+spring:
+  data:
+    mongodb:
+      username: ride
+      password: password
+      host: localhost
+      port: 27017
+      database: customer
+      authentication-database: admin
